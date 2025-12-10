@@ -1,1 +1,11 @@
 # Sprint-Review-and-Retrospective
+How do I interpret user needs and implement them into a program? How does creating “user stories” help with this? 
+The interpretation of user needs can be begun by conducting an overall analysis of the system, which is usually done by requesting feedback from the team.  This should consist of being able to ask the previous users for any possible recommendations or modifications they might have noticed within the code. Expected requirements and desired outcomes should also be identified and discussed. User stories can help with this by generating this information because this is how questions and concerns about the development can be addressed in an open-minded environment. 
+ 
+How do I approach developing programs? What Agile processes do I hope to incorporate into my future development work? 
+I approach developing programs using an Agile mindset. Agile processes that I plan to incorporate into my future would be to strictly adhere to the Daily standups and sprint reviews while making sure all members of the team feel safe and comfortable by having myself being open and encouraging while paying close attention to individual concerns during the process. I also plan to focus on making sure workflow is carefully monitored so that I can accurately expect a sustainable working pace while motivating others towards possible continuous aspects of improvement. 
+ 
+What does it mean to be a good team member in software development?  
+ 
+Personally to be a good team member, first you need to understand how Agile approaches towards software development are implemented. For the team members that would consist of understanding what your interaction with the product owner and the scrum master, and the development team is going to be. Another aspect that is important to being a good team member would be to have a solid understanding of your role during the project and to also make sure that you are keeping up with the teams' workflow. Being a clearly spoken open-minded presence among the various members is also another desirable trait for a team member. Being able to help others who may be falling behind on your team is also something that makes a good team member. 
+ 
