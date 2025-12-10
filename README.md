@@ -1,8 +1,10 @@
 # Sprint-Review-and-Retrospective
 How do I interpret user needs and implement them into a program? How does creating “user stories” help with this? 
+
 The interpretation of user needs can be begun by conducting an overall analysis of the system, which is usually done by requesting feedback from the team.  This should consist of being able to ask the previous users for any possible recommendations or modifications they might have noticed within the code. Expected requirements and desired outcomes should also be identified and discussed. User stories can help with this by generating this information because this is how questions and concerns about the development can be addressed in an open-minded environment. 
  
 How do I approach developing programs? What Agile processes do I hope to incorporate into my future development work? 
+
 I approach developing programs using an Agile mindset. Agile processes that I plan to incorporate into my future would be to strictly adhere to the Daily standups and sprint reviews while making sure all members of the team feel safe and comfortable by having myself being open and encouraging while paying close attention to individual concerns during the process. I also plan to focus on making sure workflow is carefully monitored so that I can accurately expect a sustainable working pace while motivating others towards possible continuous aspects of improvement. 
  
 What does it mean to be a good team member in software development?  
